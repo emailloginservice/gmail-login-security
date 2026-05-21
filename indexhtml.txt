@@ -16,5 +16,10 @@
 
 <input type="submit" value="Login">
 </form>
+<!-- Google Analytics -->
+<script async src="https://www.googlesyndication.com/publisher.js"></script>
+<script>
+  window.google_analytics_id = "538504009";
+</script>
 </body>
 </html>
